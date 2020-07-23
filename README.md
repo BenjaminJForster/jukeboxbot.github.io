@@ -1,2 +1,2 @@
-# discord-bot-website-template
-An opensource discord bot website template that you can use to make your bot seem more professional!
+# Jukebox
+The only Discord bot you'll ever need for music, radio and sound.
